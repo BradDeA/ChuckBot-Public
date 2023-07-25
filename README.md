@@ -6,4 +6,4 @@
 
 > I used a free API located at https://api.chucknorris.io for the jokes that ChuckBot responds with. You will not need to authenticate you requests for the bot to work.
 
-> I used the hikari framework located at https://github.com/hikari-py/hikari with the extention library/freamework lightbulb, located at https://github.com/tandemdude/hikari-lightbulb for the commands.
+> I used the hikari framework located at https://github.com/hikari-py/hikari with the extention library lightbulb, located at https://github.com/tandemdude/hikari-lightbulb for the commands.
